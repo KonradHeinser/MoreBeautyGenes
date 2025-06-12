@@ -16,10 +16,6 @@
     </li>
   </modDependencies>
 
-  <loadBefore>
-    <li>sarg.alphagenes</li>
-  </loadBefore>
-
   <loadAfter>
     <li>Ludeon.RimWorld.Biotech</li>
   </loadAfter>
