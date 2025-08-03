@@ -23,7 +23,7 @@
   <description>
 Adds 6 new beauty genes to the list, each of which affect beauty by the same amount as the metabolic cost(-3 met efficiency = 3 beauty).
 
-Note for Alpha Genes users, this will alter the way that angelic beauty and repulsive work. Now they act as enhancers rather than standard beauty genes. For example, if you take Very attractive or better, you can add angelic beauty to the pawn, which will increase beauty by another point and make the pawn unscarrable for the cost of 1 metabolic efficiency. 
+Note for Alpha Genes users, these genes are also mutually exclusive with AG's beauty genes. 
 
 Included in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870]More Biotech Style Genes - All in One[/url]
 
